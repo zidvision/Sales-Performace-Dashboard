@@ -25,8 +25,7 @@ By: [Chen, D. (2015). Online Retail [Dataset]. UCI Machine Learning Repository. 
 - Removed nulls and duplicate records  
 - Filtered irrelevant transactions (e.g., canceled orders)  
 - Added a calculated column: `Total Sales = Quantity * Unit Price`  
-- Formatted date fields to enable time-based analysis  
-- Grouped data by month and product for trend analysis  
+- Formatted date fields to enable time-based analysis   
 
 *All steps performed via Power Query within Power BI.*
 
