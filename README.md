@@ -1,4 +1,4 @@
-# Sales Performance Dashboard (Power BI)
+# Sales Performance Dashboard
 
 ## Project Objective  
 To analyze sales trends, identify top-performing products, and visualize geographic distribution of transactions across an 11-month period.  
